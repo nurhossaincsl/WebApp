@@ -1,4 +1,4 @@
-<h1>Welcome to Web Page</h1>
+<h1>Welcome to Deb Site</h1>
 <br>
 <h2>CI/CD</h2> <br>
 <?php
